@@ -25,8 +25,7 @@ malicious and benign URLs.
 
 ## Data 
 The Malicious URL detection dataset we are using for this project comes from Kaggle, located
-at: https://www.kaggle.com/datasets/pilarpieiro/tabular-dataset-ready-for-malicious-url-
-detection/data?select=train_dataset.csv
+at: https://www.kaggle.com/datasets/pilarpieiro/tabular-dataset-ready-for-malicious-url-detection/data?select=train_dataset.csv
 
 The dataset contains two .csv files, one train.csv (containing 6,728,848 rows) and one test.csv
 (containing 1,682,213 rows). Both files have the same 60 columns with the key columns to highlight
