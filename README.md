@@ -1,7 +1,6 @@
 ## Initial Notes 
 - This project was completed as part of my Certificate of Data Analysis: Machine Learning form Univeristy College Dublin 
-- To run this notebook you will need to place the train and test dataset from https://www.kaggle.com/datasets/pilarpieiro/tabular-dataset-ready-for-malicious-url-
-detection/data?select=train_dataset.csv in the data folder
+- To run this notebook you will need to place the train and test dataset from https://www.kaggle.com/datasets/pilarpieiro/tabular-dataset-ready-for-malicious-url-detection/data?select=train_dataset.csv in the data folder
 - Please be aware the datasets contain over 8 million records which leads to a long runtime
 - My results are contained within the results folder and the completed report is contained within the report folder
 
@@ -73,8 +72,7 @@ the hyperparameters leads to a large number of jobs. We believe that further imp
 made to the model by tuning the hyperparameters further.
 
 Additional hyperparameters that could be investigated could include the ‘weight’ function which is
-used in the prediction the function or the ‘leaf_size’ which could improve the time taken for the
-model to complete and the memory required during its runtime.
+used in the prediction or the ‘leaf_size’ which could improve the time taken for the model to complete and the memory required during its runtime.
 
 Overall, we feel that there are more improvements to be made to the model at this stage. For
 potential next steps with the project, we feel improved feature selection, bagging and ensemble
